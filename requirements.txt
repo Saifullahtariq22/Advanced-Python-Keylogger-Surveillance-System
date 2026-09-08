@@ -1,0 +1,7 @@
+pynput
+pywin32
+Pillow
+requests
+cryptography
+sounddevice
+scipy
