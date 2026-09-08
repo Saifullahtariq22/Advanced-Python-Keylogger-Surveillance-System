@@ -1,0 +1,56 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables / secrets
+
+.env
+*.secret
+secrets/
+config.local.*
+
+# Generated logs and collected data
+
+*.log
+key_log.txt
+syseminfo.txt
+systeminfo.txt
+clipboard.txt
+
+# Generated media
+
+*.wav
+*.mp3
+*.png
+*.jpg
+*.jpeg
+
+# Encrypted output
+
+e_*.txt
+encrypted_*
+
+# IDE files
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+
+*.tmp
+*.temp
+*.bak
